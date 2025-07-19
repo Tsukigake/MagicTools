@@ -6,14 +6,6 @@ Encrypted-3D-Data
 
 ・GENESIS
 
-### Version History
-
-・2025/07/19：Add GENESIS_V1.zip
-
-### Contact
-
-・twitter(x) &nbsp; https://x.com/tsukigake_cos &nbsp; @tsukigake_cos
-
 ---
 
 Copyright (c) 2024 @tsukigake_cos, @tsukigake829 (x.com username)
@@ -28,6 +20,13 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ---
 
+### Version History
+
+・2025/07/19：Add GENESIS_V1.zip
+
+### Contact
+
+・twitter(x) &nbsp; https://x.com/tsukigake_cos &nbsp; @tsukigake_cos
 
 
  
